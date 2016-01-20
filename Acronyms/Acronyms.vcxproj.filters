@@ -15,25 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\Oefeningenset_-_C_-_Eendimensionale_arrays\Generatie van acroniemen - Opgave\acronym.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Oefeningenset_-_C_-_Eendimensionale_arrays\Generatie van acroniemen - Opgave\main.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Oefeningenset_-_C_-_Eendimensionale_arrays\Generatie van acroniemen - Opgave\priority_queue.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="..\..\Oefeningenset_-_C_-_Eendimensionale_arrays\Generatie van acroniemen - Opgave\acronym.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\Oefeningenset_-_C_-_Eendimensionale_arrays\Generatie van acroniemen - Opgave\priority_queue.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-  </ItemGroup>
-  <ItemGroup>
     <Text Include="..\..\Oefeningenset_-_C_-_Eendimensionale_arrays\Generatie van acroniemen - Opgave\wordlist.txt">
       <Filter>Resource Files</Filter>
     </Text>
